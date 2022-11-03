@@ -27,9 +27,8 @@ To run `Task2.ipynb` in colab, `annotations.csv` and `images.zip` files from MHI
 
 ## References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. Distilling the Knowledge in a Neural Network. arXiv preprint
+arXiv:1503.02531, 2015. https://arxiv.org/abs/1503.02531
 
 <a id="2">[2]</a> 
 Rafael M¨uller, Simon Kornblith, and Geoffrey Hinton. Subclass distillation. arXiv preprint
