@@ -24,6 +24,8 @@ The code for Taks 2 is provided in [Task2.ipynb](https://github.com/Joyce-ZhouY/
 - MHIST
 ### Requirements
 To run `Task2.ipynb` in colab, `annotations.csv` and `images.zip` files from MHIST dataset are required under **content** directory. 
+### Student Accuracy with Different and Temperature hyperparameters:
+![alt text](https://github.com/Joyce-ZhouY/ECE1512-ProjectA/blob/main/performance2.png)
 
 ## References
 <a id="1">[1]</a> 
